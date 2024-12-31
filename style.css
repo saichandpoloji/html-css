@@ -30,7 +30,7 @@ body {
 }
 
 .submit-btn {
-    width: 100%;
+    
     padding: 10px;
     background-color: #4CAF50;
     color: white;
@@ -47,4 +47,11 @@ body {
     color: red;
     font-size: 12px;
     display: none;
+}
+footer{
+    text-align: center;
+    margin: 12px 0g;
+}
+.b{
+    width: 100%;
 }
